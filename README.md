@@ -1,3 +1,5 @@
+# DEPRECATED! USE THIS: https://github.com/CoffeeGen/altv-entity-streamers-os
+
 # ALT:V MP Server-side Marker Streamer
 A server-side C# implementation of an marker streamer for ALT:V MP.
 
